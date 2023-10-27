@@ -15,11 +15,11 @@ LED & Hardware setup
 - Maximum current: ``1000 mA``
 - LED voltage: ``5V``
 - LED output
-  - ``WS281x``
-  - Color order: ``GRB``
-  - Start: ``0``
-  - Length: ``59``
-  - GPIO: ``2``
+    - ``WS281x``
+    - Color order: ``GRB``
+    - Start: ``0``
+    - Length: ``59``
+    - GPIO: ``2``
 - Default brightness: ``128``
 - Apply preset ``1`` at boot
 
