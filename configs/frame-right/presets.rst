@@ -15,6 +15,7 @@ Preset: `segmented`
   - Spacing: `0`
   - Reverse direction: `true`
   - Mirror effect: `false`
+
 - Segment 2: `indicator`
   - Start LED: `22`
   - Stop LED: `23`
@@ -23,6 +24,7 @@ Preset: `segmented`
   - Spacing: `0`
   - Reverse direction: `false`
   - Mirror effect: `false`
+
 - Segment 1: `vertical`
   - Start LED: `23`
   - Stop LED: `58`
