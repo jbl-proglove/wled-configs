@@ -58,3 +58,14 @@ Tested with CRS123A directly attached: doesn't work (data voltage too low).
 
 
 Tests pending with voltage boost to 5V.
+
+
+Next steps
+----------
+
+- find suitable esp32 board (tiny) - needs LDO on-board, and 5V out
+- test JST equipped board with a 3.7V battery (order one)
+- run test with voltage booster for CRS123A - since they are the smallest form factor
+- wire up all LEDs
+- implement on/off switch
+- build in microphone (wiring is documented)
